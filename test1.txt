@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 187D-A24E
-
- Directory of D:\Testing Softwares\GIT\MyProject
-
-19-03-2021  11:11:AM    <DIR>          .
-19-03-2021  11:11:AM    <DIR>          ..
-19-03-2021  11:11:AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  26,583,973,888 bytes free
+change 1
